@@ -1,0 +1,11 @@
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+.main-logo {
+	height: 70px;
+	width: 70px;
+};
